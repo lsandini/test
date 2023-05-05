@@ -2,6 +2,6 @@
 
 git add .
 git commit -m "just adding"
-# git push origin main
+git push origin additions
 
 git request-pull https://github.com/lsandini/test main
